@@ -651,6 +651,16 @@ class WebDev100Days {
         category: "utilities",
         technologies: ["HTML", "CSS", "JavaScript"],
         features: ["Hide n seek", "Catch", "Slap"]
+      },
+      {
+       originalDay: 53,
+       name: "Text to PDF Converter",
+       description: "Convert your typed text into downloadable PDF files instantly.",
+       demoLink: "./public/Day-53_Text_to_PDF_Convertor/index.html",
+       category: "utilities",
+       technologies: ["HTML", "CSS", "JavaScript"],
+       features: ["Text Input", "PDF Generation", "Download Button"]
+
       }
 
     ];
